@@ -2,6 +2,11 @@
 
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjU5ZmVkMmMtOTczOS00MjVhLTgzMzktNGQ2M2Y1OTk0ZmUxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+**Video Presentation:**
+
+
+https://github.com/navya0118/Revenue-Insights-in-Hospitality-Industry/assets/143325467/5ddf694f-fbc1-4f36-9e09-1b8318fb5af0
+
 I'm excited to share with you what I've learned about **"Revenue Insights in Hospitality Industry."**
 
 What I've Learned: I've dived into the challenges hotels face and used my skills to analyze data and solve real problems.
