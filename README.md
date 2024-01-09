@@ -1,5 +1,7 @@
 # Revenue-Insights-in-Hospitality-Industry
 
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjU5ZmVkMmMtOTczOS00MjVhLTgzMzktNGQ2M2Y1OTk0ZmUxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
 I'm excited to share with you what I've learned about **"Revenue Insights in Hospitality Industry."**
 
 What I've Learned: I've dived into the challenges hotels face and used my skills to analyze data and solve real problems.
@@ -19,3 +21,5 @@ What I've Learned: I've dived into the challenges hotels face and used my skills
 **DURN (Daily Utilized Room Nights):** It shows how many rooms are actually used by customers every day.
 
 This project was a great learning experience, figuring out the specific challenges and insights in the hotel world. Every industry has its own unique data puzzle to solve.
+
+
