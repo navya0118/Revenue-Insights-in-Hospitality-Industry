@@ -9,22 +9,34 @@ https://github.com/navya0118/Revenue-Insights-in-Hospitality-Industry/assets/143
 
 I'm excited to share with you what I've learned about **"Revenue Insights in Hospitality Industry."**
 
-What I've Learned: I've dived into the challenges hotels face and used my skills to analyze data and solve real problems.
+I worked with AtliQ Grands, a well-known luxury hotel chain, to boost their market share and revenue through "Business and Data Intelligence" strategies. Our main goal was to make a Power BI dashboard for analyzing their historical data in real-time.
 
-**The Project:** I worked on a project to help the Revenue team at hotels by giving them useful insights from data. It's been cool to use data analysis to tackle real-world problems and help make smart decisions.
+**Key tasks included:**
+1. Creating an interactive Power BI dashboard.
+2. Implementing important hospitality metrics like RevPAR, ADR, DBRN, DSRN, and DURN.
+3. Analyzing past data to find ways to increase revenue.
+4. Offering practical insights for pricing and occupancy decisions.
 
-**What I've Created:** I made a live dashboard using a tool called Power BI. This dashboard shows important info about hotels:
+**Throughout the project, I gained skills and knowledge in:**
+1. Using Power BI for data analysis and visualization.
+2. Understanding crucial hospitality metrics and KPIs.
+3. Making data-driven decisions for optimizing pricing and occupancy.
+4. Presenting data effectively to support strategic decision-making.
 
-**RevPAR (Revenue Per Available Room):** This tells us how much money each room makes.
+**Key Metrics Used:**
 
-**ADR (Average Daily Rate):** It's the average amount people pay for a room.
+**RevPAR** (Revenue Per Available Room): This tells us how much money each room makes.
 
-**DBRN (Daily Booked Room Nights):** This tracks how many rooms are booked each day.
+**ADR** (Average Daily Rate): It's the average amount people pay for a room.
 
-**DSRN (Daily Sellable Room Nights):** This is the number of rooms available for sale each day.
+**DBRN** (Daily Booked Room Nights): This tracks how many rooms are booked each day.
 
-**DURN (Daily Utilized Room Nights):** It shows how many rooms are actually used by customers every day.
+**DSRN** (Daily Sellable Room Nights): This is the number of rooms available for sale each day.
+
+**DURN** (Daily Utilized Room Nights): It shows how many rooms are actually used by customers every day.
 
 This project was a great learning experience, figuring out the specific challenges and insights in the hotel world. Every industry has its own unique data puzzle to solve.
+
+
 
 
